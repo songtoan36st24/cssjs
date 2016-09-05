@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://xetaitphcm.com/' target='_blank'><img src='http://xetaitphcm.com/wp-content/uploads/2015/09/hdd-vitara.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://xetaitphcm.com/' target='_blank'><img src='http://xetaitphcm.com/wp-content/uploads/2015/05/Suzuki-truck-thung-kin500x337.jpg' width='500px'/><br/>13 Bán xe tải Suzuki 500kg giá tốt tphcm</a>. LH mua xe tải Suzuki 500kg hotline: 0933.229.979. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
